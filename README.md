@@ -41,7 +41,13 @@ Multiple train/test splits with different class imbalances
 
 Detailed description of dataset: [heart_disease_description_0.1.0.pdf](heart_disease_description_0.1.0.pdf)
 
-📝 Citation
+## 📝 Citation
 Wieckowska, B. (2025). Heart Disease Dataset with Generated Variables for Method Validation (Version v0.1.0) [Data set]. GitHub. https://github.com/bbwieckowska/heart-disease-data
 
+This dataset incorporates and extends the following UCI Heart Disease datasets:
+
 Janosi, A., Steinbrunn, W., Pfisterer, M., & Detrano, R. (1989). Heart Disease [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
+
+
+## License
+This work is licensed under MIT.
