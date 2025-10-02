@@ -24,3 +24,20 @@ summary(heart_disease)
 # Basic analysis
 table(heart_disease$disease)
 boxplot(age ~ disease, data = heart_disease)
+```
+## 🔧 Regenerate Data
+```r
+source("R/generate_data.R")
+# This will recreate all dataset files
+```
+## 📊 Dataset Description
+Contains 661 complete cases with:
+
+Real clinical variables (age, sex, cholesterol, etc.)
+
+Generated random variables for method testing
+
+Multiple train/test splits with different class imbalances
+
+📝 Citation
+[Add your citation here]
