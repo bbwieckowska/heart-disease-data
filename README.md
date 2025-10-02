@@ -40,4 +40,4 @@ Generated random variables for method testing
 Multiple train/test splits with different class imbalances
 
 📝 Citation
-[Add your citation here]
+Wieckowska, B. (2025). Heart Disease Dataset with Generated Variables for Method Validation (Version v0.1.0) [Data set]. GitHub. https://github.com/bbwieckowska/heart-disease-data
